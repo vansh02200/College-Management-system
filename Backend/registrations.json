@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "name": "Diwakar Gautam",
+    "email": "diwakargautam823@gmail.com"
+  },
+  {
+    "id": 2,
+    "eventId": 1,
+    "name": "Harry",
+    "email": "Harry@gmail.com"
+  },
+  {
+    "id": 3,
+    "eventId": 1,
+    "name": "Harry Garg",
+    "email": "HarryGarg123@gmail.com"
+  },
+  {
+    "id": 4,
+    "eventId": 1,
+    "name": "Diki",
+    "email": "diki1@gmail.com"
+  },
+  {
+    "id": 5,
+    "eventId": 2,
+    "name": "Harshit",
+    "email": "Harshit12@gmail.com"
+  },
+  {
+    "id": 6,
+    "eventId": 2,
+    "name": "abc",
+    "email": "abc1@gmail.com"
+  }
+]
